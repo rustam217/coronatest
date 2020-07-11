@@ -1,0 +1,11 @@
+C:\users\Notnik_kg\source\repos\coronatest\coronatest\bin\Debug\netcoreapp3.1\coronatest.exe
+C:\users\Notnik_kg\source\repos\coronatest\coronatest\bin\Debug\netcoreapp3.1\coronatest.deps.json
+C:\users\Notnik_kg\source\repos\coronatest\coronatest\bin\Debug\netcoreapp3.1\coronatest.runtimeconfig.json
+C:\users\Notnik_kg\source\repos\coronatest\coronatest\bin\Debug\netcoreapp3.1\coronatest.runtimeconfig.dev.json
+C:\users\Notnik_kg\source\repos\coronatest\coronatest\bin\Debug\netcoreapp3.1\coronatest.dll
+C:\users\Notnik_kg\source\repos\coronatest\coronatest\bin\Debug\netcoreapp3.1\coronatest.pdb
+C:\users\Notnik_kg\source\repos\coronatest\coronatest\obj\Debug\netcoreapp3.1\coronatest.csprojAssemblyReference.cache
+C:\users\Notnik_kg\source\repos\coronatest\coronatest\obj\Debug\netcoreapp3.1\coronatest.AssemblyInfoInputs.cache
+C:\users\Notnik_kg\source\repos\coronatest\coronatest\obj\Debug\netcoreapp3.1\coronatest.AssemblyInfo.cs
+C:\users\Notnik_kg\source\repos\coronatest\coronatest\obj\Debug\netcoreapp3.1\coronatest.dll
+C:\users\Notnik_kg\source\repos\coronatest\coronatest\obj\Debug\netcoreapp3.1\coronatest.pdb
